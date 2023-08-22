@@ -1,0 +1,21 @@
+{
+    "Author": "Adiana",
+    "Name": "FFRPG",
+    "InternalName": "FFRPG",
+    "AssemblyVersion": "1.0.0.9",
+    "Description": "/tord",
+    "RepoUrl": "https://github.com/Nay26/FFRPG",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "sample",
+        "plugin"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "Punchline": "My FFRPG plugin",
+    "DownloadLinkInstall": "https://github.com/Nay26/FFRPG/raw/master/bin/FFRPG.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Nay26/FFRPG/raw/master/bin/FFRPG.zip",
+    "DownloadLinkUpdate": "https://github.com/Nay26/FFRPG/raw/master/bin/FFRPG.zip"
+}
